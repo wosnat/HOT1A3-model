@@ -28,10 +28,6 @@ jobs:
       - name: Generate MEMOTE Report
         run: memote report snapshot model.xml
 
-      # Run the custom tests
-      - name: Run Custom Tests with pytest
-        run: pytest
-
       - name: Push to Remote
         run: |
           git config --global user.name "${{ github.actor }}"
