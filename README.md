@@ -4,6 +4,4 @@ This is a repository to maintain a genome-scale metabolic model of Alteromonas M
 1) The model file (model.xml)
 2) The current MEMOTE benchmarking report for the model (index.html)
 
-For each push and pull request, a workflow runs that:
-1) Updates the MEMOTE report file
-2) Runs any custom tests (none currently implemented)
+The GitHub action (Benchmark-and-Test workflow) runs [MEMOTE](https://memote.readthedocs.io/en/latest/) to update the beanchmarking report on every push and pull request.
