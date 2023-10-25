@@ -1,0 +1,429 @@
+medium	description	compound	name
+PROMM_glycerol	PROMM_glycerol	zn2	Zn2+
+PROMM_glycerol	PROMM_glycerol	slnt	Selenite
+PROMM_glycerol	PROMM_glycerol	o2	O2
+PROMM_glycerol	PROMM_glycerol	ni2	Ni2+
+PROMM_glycerol	PROMM_glycerol	na1	Na+
+PROMM_glycerol	PROMM_glycerol	mobd	Molybdate
+PROMM_glycerol	PROMM_glycerol	mn2	Mn2+
+PROMM_glycerol	PROMM_glycerol	mg2	Mg
+PROMM_glycerol	PROMM_glycerol	k	K+
+PROMM_glycerol	PROMM_glycerol	glyc	Glycerol
+PROMM_glycerol	PROMM_glycerol	btn	BIOT
+PROMM_glycerol	PROMM_glycerol	so4	Sulfate
+PROMM_glycerol	PROMM_glycerol	pi	Phosphate
+PROMM_glycerol	PROMM_glycerol	h2o; oh1	H2O
+PROMM_glycerol	PROMM_glycerol	h	H+
+PROMM_glycerol	PROMM_glycerol	inost	L-Inositol
+PROMM_glycerol	PROMM_glycerol	ncam	Nicotinamide
+PROMM_glycerol	PROMM_glycerol	fe3	Fe+3
+PROMM_glycerol	PROMM_glycerol	fe2	Fe+2
+PROMM_glycerol	PROMM_glycerol	pydxn	Pyridoxol
+PROMM_glycerol	PROMM_glycerol	cobalt2	Co2+
+PROMM_glycerol	PROMM_glycerol	cu2	Cu2+
+PROMM_glycerol	PROMM_glycerol	cl	Cl-
+PROMM_glycerol	PROMM_glycerol	thm	Thiamin
+PROMM_glycerol	PROMM_glycerol	ca2	Ca2+
+PROMM_glycerol	PROMM_glycerol	nh3; nh4	NH3
+PROMM_glycerol	PROMM_glycerol	fol	Folate
+PROMM_glycerol	PROMM_glycerol	h2co3; hco3	H2CO3
+PROMM_glycerol	PROMM_glycerol	pnto__R	PAN
+PROMM_glycerol	PROMM_glycerol	b12	Vitamin B12
+PROMM_lactate	PROMM_lactate	zn2	Zn2+
+PROMM_lactate	PROMM_lactate	slnt	Selenite
+PROMM_lactate	PROMM_lactate	o2	O2
+PROMM_lactate	PROMM_lactate	ni2	Ni2+
+PROMM_lactate	PROMM_lactate	na1	Na+
+PROMM_lactate	PROMM_lactate	mobd	Molybdate
+PROMM_lactate	PROMM_lactate	mn2	Mn2+
+PROMM_lactate	PROMM_lactate	mg2	Mg
+PROMM_lactate	PROMM_lactate	k	K+
+PROMM_lactate	PROMM_lactate	btn	BIOT
+PROMM_lactate	PROMM_lactate	so4	Sulfate
+PROMM_lactate	PROMM_lactate	pi	Phosphate
+PROMM_lactate	PROMM_lactate	h2o; oh1	H2O
+PROMM_lactate	PROMM_lactate	h	H+
+PROMM_lactate	PROMM_lactate	inost	L-Inositol
+PROMM_lactate	PROMM_lactate	ncam	Nicotinamide
+PROMM_lactate	PROMM_lactate	fe3	Fe+3
+PROMM_lactate	PROMM_lactate	fe2	Fe+2
+PROMM_lactate	PROMM_lactate	lac__L	L-Lactate
+PROMM_lactate	PROMM_lactate	pydxn	Pyridoxol
+PROMM_lactate	PROMM_lactate	cobalt2	Co2+
+PROMM_lactate	PROMM_lactate	cu2	Cu2+
+PROMM_lactate	PROMM_lactate	cl	Cl-
+PROMM_lactate	PROMM_lactate	thm	Thiamin
+PROMM_lactate	PROMM_lactate	ca2	Ca2+
+PROMM_lactate	PROMM_lactate	nh3; nh4	NH3
+PROMM_lactate	PROMM_lactate	fol	Folate
+PROMM_lactate	PROMM_lactate	h2co3; hco3	H2CO3
+PROMM_lactate	PROMM_lactate	pnto__R	PAN
+PROMM_lactate	PROMM_lactate	b12	Vitamin B12
+PROMM_acetate	PROMM_acetate	zn2	Zn2+
+PROMM_acetate	PROMM_acetate	slnt	Selenite
+PROMM_acetate	PROMM_acetate	ac	Acetate
+PROMM_acetate	PROMM_acetate	o2	O2
+PROMM_acetate	PROMM_acetate	ni2	Ni2+
+PROMM_acetate	PROMM_acetate	na1	Na+
+PROMM_acetate	PROMM_acetate	mobd	Molybdate
+PROMM_acetate	PROMM_acetate	mn2	Mn2+
+PROMM_acetate	PROMM_acetate	mg2	Mg
+PROMM_acetate	PROMM_acetate	k	K+
+PROMM_acetate	PROMM_acetate	btn	BIOT
+PROMM_acetate	PROMM_acetate	so4	Sulfate
+PROMM_acetate	PROMM_acetate	pi	Phosphate
+PROMM_acetate	PROMM_acetate	h2o; oh1	H2O
+PROMM_acetate	PROMM_acetate	h	H+
+PROMM_acetate	PROMM_acetate	inost	L-Inositol
+PROMM_acetate	PROMM_acetate	ncam	Nicotinamide
+PROMM_acetate	PROMM_acetate	fe3	Fe+3
+PROMM_acetate	PROMM_acetate	fe2	Fe+2
+PROMM_acetate	PROMM_acetate	pydxn	Pyridoxol
+PROMM_acetate	PROMM_acetate	cobalt2	Co2+
+PROMM_acetate	PROMM_acetate	cu2	Cu2+
+PROMM_acetate	PROMM_acetate	cl	Cl-
+PROMM_acetate	PROMM_acetate	thm	Thiamin
+PROMM_acetate	PROMM_acetate	ca2	Ca2+
+PROMM_acetate	PROMM_acetate	nh3; nh4	NH3
+PROMM_acetate	PROMM_acetate	fol	Folate
+PROMM_acetate	PROMM_acetate	h2co3; hco3	H2CO3
+PROMM_acetate	PROMM_acetate	pnto__R	PAN
+PROMM_acetate	PROMM_acetate	b12	Vitamin B12
+PROMM_pyruvate	PROMM_pyruvate	zn2	Zn2+
+PROMM_pyruvate	PROMM_pyruvate	slnt	Selenite
+PROMM_pyruvate	PROMM_pyruvate	pyr	Pyruvate
+PROMM_pyruvate	PROMM_pyruvate	o2	O2
+PROMM_pyruvate	PROMM_pyruvate	ni2	Ni2+
+PROMM_pyruvate	PROMM_pyruvate	na1	Na+
+PROMM_pyruvate	PROMM_pyruvate	mobd	Molybdate
+PROMM_pyruvate	PROMM_pyruvate	mn2	Mn2+
+PROMM_pyruvate	PROMM_pyruvate	mg2	Mg
+PROMM_pyruvate	PROMM_pyruvate	k	K+
+PROMM_pyruvate	PROMM_pyruvate	btn	BIOT
+PROMM_pyruvate	PROMM_pyruvate	so4	Sulfate
+PROMM_pyruvate	PROMM_pyruvate	pi	Phosphate
+PROMM_pyruvate	PROMM_pyruvate	h2o; oh1	H2O
+PROMM_pyruvate	PROMM_pyruvate	h	H+
+PROMM_pyruvate	PROMM_pyruvate	inost	L-Inositol
+PROMM_pyruvate	PROMM_pyruvate	ncam	Nicotinamide
+PROMM_pyruvate	PROMM_pyruvate	fe3	Fe+3
+PROMM_pyruvate	PROMM_pyruvate	fe2	Fe+2
+PROMM_pyruvate	PROMM_pyruvate	pydxn	Pyridoxol
+PROMM_pyruvate	PROMM_pyruvate	cobalt2	Co2+
+PROMM_pyruvate	PROMM_pyruvate	cu2	Cu2+
+PROMM_pyruvate	PROMM_pyruvate	cl	Cl-
+PROMM_pyruvate	PROMM_pyruvate	thm	Thiamin
+PROMM_pyruvate	PROMM_pyruvate	ca2	Ca2+
+PROMM_pyruvate	PROMM_pyruvate	nh3; nh4	NH3
+PROMM_pyruvate	PROMM_pyruvate	fol	Folate
+PROMM_pyruvate	PROMM_pyruvate	h2co3; hco3	H2CO3
+PROMM_pyruvate	PROMM_pyruvate	pnto__R	PAN
+PROMM_pyruvate	PROMM_pyruvate	b12	Vitamin B12
+PROMM	PROMM	zn2	Zn2+
+PROMM	PROMM	slnt	Selenite
+PROMM	PROMM	pyr	Pyruvate
+PROMM	PROMM	ac	Acetate
+PROMM	PROMM	o2	O2
+PROMM	PROMM	ni2	Ni2+
+PROMM	PROMM	na1	Na+
+PROMM	PROMM	mobd	Molybdate
+PROMM	PROMM	mn2	Mn2+
+PROMM	PROMM	mg2	Mg
+PROMM	PROMM	k	K+
+PROMM	PROMM	glyc	Glycerol
+PROMM	PROMM	btn	BIOT
+PROMM	PROMM	so4	Sulfate
+PROMM	PROMM	pi	Phosphate
+PROMM	PROMM	h2o; oh1	H2O
+PROMM	PROMM	h	H+
+PROMM	PROMM	inost	L-Inositol
+PROMM	PROMM	ncam	Nicotinamide
+PROMM	PROMM	fe3	Fe+3
+PROMM	PROMM	fe2	Fe+2
+PROMM	PROMM	lac__L	L-Lactate
+PROMM	PROMM	pydxn	Pyridoxol
+PROMM	PROMM	cobalt2	Co2+
+PROMM	PROMM	cu2	Cu2+
+PROMM	PROMM	cl	Cl-
+PROMM	PROMM	thm	Thiamin
+PROMM	PROMM	ca2	Ca2+
+PROMM	PROMM	nh3; nh4	NH3
+PROMM	PROMM	fol	Folate
+PROMM	PROMM	h2co3; hco3	H2CO3
+PROMM	PROMM	pnto__R	PAN
+PROMM	PROMM	b12	Vitamin B12
+PRO99	PRO99	zn2	Zn2+
+PRO99	PRO99	slnt	Selenite
+PRO99	PRO99	o2	O2
+PRO99	PRO99	ni2	Ni2+
+PRO99	PRO99	na1	Na+
+PRO99	PRO99	mobd	Molybdate
+PRO99	PRO99	mn2	Mn2+
+PRO99	PRO99	mg2	Mg
+PRO99	PRO99	k	K+
+PRO99	PRO99	so4	Sulfate
+PRO99	PRO99	pi	Phosphate
+PRO99	PRO99	h2o; oh1	H2O
+PRO99	PRO99	h	H+
+PRO99	PRO99	fe3	Fe+3
+PRO99	PRO99	fe2	Fe+2
+PRO99	PRO99	cobalt2	Co2+
+PRO99	PRO99	cu2	Cu2+
+PRO99	PRO99	cl	Cl-
+PRO99	PRO99	ca2	Ca2+
+PRO99	PRO99	nh3; nh4	NH3
+PRO99	PRO99	h2co3; hco3	H2CO3
+HMB_neg	HMB_neg	zn2	Zn2+
+HMB_neg	HMB_neg	slnt	Selenite
+HMB_neg	HMB_neg	o2	O2
+HMB_neg	HMB_neg	ni2	Ni2+
+HMB_neg	HMB_neg	na1	Na+
+HMB_neg	HMB_neg	mobd	Molybdate
+HMB_neg	HMB_neg	mn2	Mn2+
+HMB_neg	HMB_neg	mg2	Mg
+HMB_neg	HMB_neg	k	K+
+HMB_neg	HMB_neg	btn	BIOT
+HMB_neg	HMB_neg	so4	Sulfate
+HMB_neg	HMB_neg	pi	Phosphate
+HMB_neg	HMB_neg	h2o; oh1	H2O
+HMB_neg	HMB_neg	h	H+
+HMB_neg	HMB_neg	inost	L-Inositol
+HMB_neg	HMB_neg	ncam	Nicotinamide
+HMB_neg	HMB_neg	fe3	Fe+3
+HMB_neg	HMB_neg	fe2	Fe+2
+HMB_neg	HMB_neg	no3	Nitrate
+HMB_neg	HMB_neg	pydxn	Pyridoxol
+HMB_neg	HMB_neg	cobalt2	Co2+
+HMB_neg	HMB_neg	cu2	Cu2+
+HMB_neg	HMB_neg	cl	Cl-
+HMB_neg	HMB_neg	thm	Thiamin
+HMB_neg	HMB_neg	ca2	Ca2+
+HMB_neg	HMB_neg	nh3; nh4	NH3
+HMB_neg	HMB_neg	fol	Folate
+HMB_neg	HMB_neg	h2co3; hco3	H2CO3
+HMB_neg	HMB_neg	pnto__R	PAN
+HMB_neg	HMB_neg	b12	Vitamin B12
+HMBaa	HMBaa	zn2	Zn2+
+HMBaa	HMBaa	slnt	Selenite
+HMBaa	HMBaa	glu__L	L-Glutamate
+HMBaa	HMBaa	gly	Glycine
+HMBaa	HMBaa	o2	O2
+HMBaa	HMBaa	ala__L	L-Alanine
+HMBaa	HMBaa	lys__L	L-Lysine
+HMBaa	HMBaa	ni2	Ni2+
+HMBaa	HMBaa	asp__L	L-Aspartate
+HMBaa	HMBaa	na1	Na+
+HMBaa	HMBaa	arg__L	L-Arginine
+HMBaa	HMBaa	mobd	Molybdate
+HMBaa	HMBaa	gln__L	L-Glutamine
+HMBaa	HMBaa	ser__L	L-Serine
+HMBaa	HMBaa	met__L	L-Methionine
+HMBaa	HMBaa	mn2	Mn2+
+HMBaa	HMBaa	mg2	Mg
+HMBaa	HMBaa	trp__L	L-Tryptophan
+HMBaa	HMBaa	phe__L	L-Phenylalanine
+HMBaa	HMBaa	tyr__L	L-Tyrosine
+HMBaa	HMBaa	cys__L	L-Cysteine
+HMBaa	HMBaa	k	K+
+HMBaa	HMBaa	btn	BIOT
+HMBaa	HMBaa	so4	Sulfate
+HMBaa	HMBaa	leu__L	L-Leucine
+HMBaa	HMBaa	pi	Phosphate
+HMBaa	HMBaa	h2o; oh1	H2O
+HMBaa	HMBaa	ala__D	D-Alanine
+HMBaa	HMBaa	h	H+
+HMBaa	HMBaa	his__L	L-Histidine
+HMBaa	HMBaa	inost	L-Inositol
+HMBaa	HMBaa	pro__L	L-Proline
+HMBaa	HMBaa	asn__L	L-Asparagine
+HMBaa	HMBaa	ncam	Nicotinamide
+HMBaa	HMBaa	fe3	Fe+3
+HMBaa	HMBaa	fe2	Fe+2
+HMBaa	HMBaa	val__L	L-Valine
+HMBaa	HMBaa	thr__L	L-Threonine
+HMBaa	HMBaa	glu__D	D-Glutamate
+HMBaa	HMBaa	no3	Nitrate
+HMBaa	HMBaa	pydxn	Pyridoxol
+HMBaa	HMBaa	cobalt2	Co2+
+HMBaa	HMBaa	cu2	Cu2+
+HMBaa	HMBaa	cl	Cl-
+HMBaa	HMBaa	thm	Thiamin
+HMBaa	HMBaa	ca2	Ca2+
+HMBaa	HMBaa	asp__D	D-Aspartate
+HMBaa	HMBaa	ile__L	L-Isoleucine
+HMBaa	HMBaa	nh3; nh4	NH3
+HMBaa	HMBaa	fol	Folate
+HMBaa	HMBaa	h2co3; hco3	H2CO3
+HMBaa	HMBaa	lys__D	D-Lysine
+HMBaa	HMBaa	ser__D	D-Serine
+HMBaa	HMBaa	cys__D	D-Cysteine
+HMBaa	HMBaa		D-Threonine
+HMBaa	HMBaa	met__D	D-Methionine
+HMBaa	HMBaa	pnto__R	PAN
+HMBaa	HMBaa		D-Asparagine
+HMBaa	HMBaa	b12	Vitamin B12
+HMBaa	HMBaa		D-Valine
+HMBamisug	HMBamisug	zn2	Zn2+
+HMBamisug	HMBamisug	slnt	Selenite
+HMBamisug	HMBamisug	o2	O2
+HMBamisug	HMBamisug	ni2	Ni2+
+HMBamisug	HMBamisug	na1	Na+
+HMBamisug	HMBamisug	mobd	Molybdate
+HMBamisug	HMBamisug	mn2	Mn2+
+HMBamisug	HMBamisug	mg2	Mg
+HMBamisug	HMBamisug	k	K+
+HMBamisug	HMBamisug	btn	BIOT
+HMBamisug	HMBamisug	so4	Sulfate
+HMBamisug	HMBamisug	pi	Phosphate
+HMBamisug	HMBamisug	h2o; oh1	H2O
+HMBamisug	HMBamisug	h	H+
+HMBamisug	HMBamisug	inost	L-Inositol
+HMBamisug	HMBamisug	acgam	N-Acetyl-D-glucosamine
+HMBamisug	HMBamisug	ncam	Nicotinamide
+HMBamisug	HMBamisug	fe3	Fe+3
+HMBamisug	HMBamisug	fe2	Fe+2
+HMBamisug	HMBamisug	no3	Nitrate
+HMBamisug	HMBamisug	pydxn	Pyridoxol
+HMBamisug	HMBamisug	gam	GLUM
+HMBamisug	HMBamisug	cobalt2	Co2+
+HMBamisug	HMBamisug	cu2	Cu2+
+HMBamisug	HMBamisug	cl	Cl-
+HMBamisug	HMBamisug	thm	Thiamin
+HMBamisug	HMBamisug	ca2	Ca2+
+HMBamisug	HMBamisug	nh3; nh4	NH3
+HMBamisug	HMBamisug	fol	Folate
+HMBamisug	HMBamisug	h2co3; hco3	H2CO3
+HMBamisug	HMBamisug	pnto__R	PAN
+HMBamisug	HMBamisug		D-Chondrosamine
+HMBamisug	HMBamisug	b12	Vitamin B12
+HMBoligo	HMBoligo	zn2	Zn2+
+HMBoligo	HMBoligo	slnt	Selenite
+HMBoligo	HMBoligo	o2	O2
+HMBoligo	HMBoligo	ni2	Ni2+
+HMBoligo	HMBoligo	na1	Na+
+HMBoligo	HMBoligo	mobd	Molybdate
+HMBoligo	HMBoligo	mn2	Mn2+
+HMBoligo	HMBoligo	mg2	Mg
+HMBoligo	HMBoligo	sucr	Sucrose
+HMBoligo	HMBoligo	k	K+
+HMBoligo	HMBoligo	btn	BIOT
+HMBoligo	HMBoligo	so4	Sulfate
+HMBoligo	HMBoligo	pi	Phosphate
+HMBoligo	HMBoligo	h2o; oh1	H2O
+HMBoligo	HMBoligo	h	H+
+HMBoligo	HMBoligo	inost	L-Inositol
+HMBoligo	HMBoligo	ncam	Nicotinamide
+HMBoligo	HMBoligo	fe3	Fe+3
+HMBoligo	HMBoligo	fe2	Fe+2
+HMBoligo	HMBoligo	malt	Maltose
+HMBoligo	HMBoligo	lcts	LACT
+HMBoligo	HMBoligo	no3	Nitrate
+HMBoligo	HMBoligo	pydxn	Pyridoxol
+HMBoligo	HMBoligo	cobalt2	Co2+
+HMBoligo	HMBoligo	cu2	Cu2+
+HMBoligo	HMBoligo	cl	Cl-
+HMBoligo	HMBoligo	thm	Thiamin
+HMBoligo	HMBoligo	ca2	Ca2+
+HMBoligo	HMBoligo	nh3; nh4	NH3
+HMBoligo	HMBoligo	fol	Folate
+HMBoligo	HMBoligo	h2co3; hco3	H2CO3
+HMBoligo	HMBoligo	pnto__R	PAN
+HMBoligo	HMBoligo	tre	TRHL
+HMBoligo	HMBoligo	b12	Vitamin B12
+MMB_neg	MMB_neg	zn2	Zn2+
+MMB_neg	MMB_neg	slnt	Selenite
+MMB_neg	MMB_neg	o2	O2
+MMB_neg	MMB_neg	ni2	Ni2+
+MMB_neg	MMB_neg	na1	Na+
+MMB_neg	MMB_neg	mobd	Molybdate
+MMB_neg	MMB_neg	mn2	Mn2+
+MMB_neg	MMB_neg	mg2	Mg
+MMB_neg	MMB_neg	k	K+
+MMB_neg	MMB_neg	so4	Sulfate
+MMB_neg	MMB_neg	pi	Phosphate
+MMB_neg	MMB_neg	h2o; oh1	H2O
+MMB_neg	MMB_neg	h	H+
+MMB_neg	MMB_neg	fe3	Fe+3
+MMB_neg	MMB_neg	fe2	Fe+2
+MMB_neg	MMB_neg	no3	Nitrate
+MMB_neg	MMB_neg	cobalt2	Co2+
+MMB_neg	MMB_neg	cu2	Cu2+
+MMB_neg	MMB_neg	cl	Cl-
+MMB_neg	MMB_neg	ca2	Ca2+
+MMB_neg	MMB_neg	nh3; nh4	NH3
+MMB_neg	MMB_neg	h2co3; hco3	H2CO3
+MMB_pyruvate	MMB_pyruvate	zn2	Zn2+
+MMB_pyruvate	MMB_pyruvate	slnt	Selenite
+MMB_pyruvate	MMB_pyruvate	pyr	Pyruvate
+MMB_pyruvate	MMB_pyruvate	o2	O2
+MMB_pyruvate	MMB_pyruvate	ni2	Ni2+
+MMB_pyruvate	MMB_pyruvate	na1	Na+
+MMB_pyruvate	MMB_pyruvate	mobd	Molybdate
+MMB_pyruvate	MMB_pyruvate	mn2	Mn2+
+MMB_pyruvate	MMB_pyruvate	mg2	Mg
+MMB_pyruvate	MMB_pyruvate	k	K+
+MMB_pyruvate	MMB_pyruvate	so4	Sulfate
+MMB_pyruvate	MMB_pyruvate	pi	Phosphate
+MMB_pyruvate	MMB_pyruvate	h2o; oh1	H2O
+MMB_pyruvate	MMB_pyruvate	h	H+
+MMB_pyruvate	MMB_pyruvate	fe3	Fe+3
+MMB_pyruvate	MMB_pyruvate	fe2	Fe+2
+MMB_pyruvate	MMB_pyruvate	no3	Nitrate
+MMB_pyruvate	MMB_pyruvate	cobalt2	Co2+
+MMB_pyruvate	MMB_pyruvate	cu2	Cu2+
+MMB_pyruvate	MMB_pyruvate	cl	Cl-
+MMB_pyruvate	MMB_pyruvate	ca2	Ca2+
+MMB_pyruvate	MMB_pyruvate	nh3; nh4	NH3
+MMB_pyruvate	MMB_pyruvate	h2co3; hco3	H2CO3
+MMB_aa	MMB_aa	zn2	Zn2+
+MMB_aa	MMB_aa	slnt	Selenite
+MMB_aa	MMB_aa	glu__L	L-Glutamate
+MMB_aa	MMB_aa	gly	Glycine
+MMB_aa	MMB_aa	o2	O2
+MMB_aa	MMB_aa	ala__L	L-Alanine
+MMB_aa	MMB_aa	lys__L	L-Lysine
+MMB_aa	MMB_aa	ni2	Ni2+
+MMB_aa	MMB_aa	asp__L	L-Aspartate
+MMB_aa	MMB_aa	na1	Na+
+MMB_aa	MMB_aa	arg__L	L-Arginine
+MMB_aa	MMB_aa	mobd	Molybdate
+MMB_aa	MMB_aa	gln__L	L-Glutamine
+MMB_aa	MMB_aa	ser__L	L-Serine
+MMB_aa	MMB_aa	met__L	L-Methionine
+MMB_aa	MMB_aa	mn2	Mn2+
+MMB_aa	MMB_aa	mg2	Mg
+MMB_aa	MMB_aa	trp__L	L-Tryptophan
+MMB_aa	MMB_aa	phe__L	L-Phenylalanine
+MMB_aa	MMB_aa	tyr__L	L-Tyrosine
+MMB_aa	MMB_aa	cys__L	L-Cysteine
+MMB_aa	MMB_aa	k	K+
+MMB_aa	MMB_aa	so4	Sulfate
+MMB_aa	MMB_aa	leu__L	L-Leucine
+MMB_aa	MMB_aa	pi	Phosphate
+MMB_aa	MMB_aa	h2o; oh1	H2O
+MMB_aa	MMB_aa	ala__D	D-Alanine
+MMB_aa	MMB_aa	h	H+
+MMB_aa	MMB_aa	his__L	L-Histidine
+MMB_aa	MMB_aa	pro__L	L-Proline
+MMB_aa	MMB_aa	asn__L	L-Asparagine
+MMB_aa	MMB_aa	fe3	Fe+3
+MMB_aa	MMB_aa	fe2	Fe+2
+MMB_aa	MMB_aa	val__L	L-Valine
+MMB_aa	MMB_aa	thr__L	L-Threonine
+MMB_aa	MMB_aa	glu__D	D-Glutamate
+MMB_aa	MMB_aa	no3	Nitrate
+MMB_aa	MMB_aa	cobalt2	Co2+
+MMB_aa	MMB_aa	cu2	Cu2+
+MMB_aa	MMB_aa	cl	Cl-
+MMB_aa	MMB_aa	ca2	Ca2+
+MMB_aa	MMB_aa	asp__D	D-Aspartate
+MMB_aa	MMB_aa	ile__L	L-Isoleucine
+MMB_aa	MMB_aa	nh3; nh4	NH3
+MMB_aa	MMB_aa	h2co3; hco3	H2CO3
+MMB_aa	MMB_aa	lys__D	D-Lysine
+MMB_aa	MMB_aa	ser__D	D-Serine
+MMB_aa	MMB_aa	cys__D	D-Cysteine
+MMB_aa	MMB_aa		D-Threonine
+MMB_aa	MMB_aa	met__D	D-Methionine
+MMB_aa	MMB_aa		D-Asparagine
+MMB_aa	MMB_aa		D-Valine
